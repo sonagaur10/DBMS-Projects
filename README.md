@@ -1,3 +1,5 @@
+**About Projects**
+
 **Project 1:- Online Shopping System**
 The aim is to design an Online Shopping system that is based on online shopping management requirements. The system can encodes the shoppers’ information upon the buying/ordering. The admin can have access to the shoppers’ information as well as their transactions.
 
@@ -9,7 +11,8 @@ The different tables in this structured database shall be-
 5. Products - products names and details
 6. Seller - Seller details
 7. Payment - payment date and details
-8. Transaction Reports - Complete report of the overall transactionf
+8. Transaction Reports - Complete report of the overall transaction
+
 
 ![image](https://user-images.githubusercontent.com/93215292/157719774-9aed49fe-3413-4fe3-b3f0-cd24c31a57a6.png)
 
@@ -27,3 +30,11 @@ The different tables in this structured database shall be-
 
 ![image](https://user-images.githubusercontent.com/93215292/157720214-3bb8938a-de67-4d27-916d-944b942b4920.png)
 
+
+**About Files:-**
+
+1. **Online Shopping system.xlsx**:- Excel File contain database entities,  ER Diagram, Workbench ER Diagram, Authorities specified to users
+2. **Online Shopping system.sql**:- Sql File contain sql code and querries for the tables of Shopping Database.
+3. **Online hotel booking.sql**:- Sql File contain sql code and querries for the tables of Hotel Booking Database.
+4. **Online Hotel Booking.xlsx**:- Excel File contain Case Ticket, Normalization of tables, Workbemch ER Diagram, Mysql Code of each table and Authority given to users.
+5. **Online Hotel Booking_Group4.docs**:- Report of project 2.
