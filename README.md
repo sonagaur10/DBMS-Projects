@@ -9,7 +9,7 @@ The different tables in this structured database shall be-
 5. Products - products names and details
 6. Seller - Seller details
 7. Payment - payment date and details
-8. Transaction Reports - Complete report of the overall transaction
+8. Transaction Reports - Complete report of the overall transactionf
 
 ![image](https://user-images.githubusercontent.com/93215292/157719774-9aed49fe-3413-4fe3-b3f0-cd24c31a57a6.png)
 
